@@ -1,2 +1,2 @@
-# Web Utility for Time Table Generation
+# Web Utility for Time-Table Generation
  
