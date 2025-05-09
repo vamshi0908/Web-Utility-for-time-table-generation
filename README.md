@@ -22,8 +22,8 @@ Follow the steps below to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/automated-time-table-generator.git
-cd automated-time-table-generator
+git clone https://github.com/vamshi0908/Web-Utility-for-time-table-generation.git
+cd time-table
 ```
 
 ### 2. Install Backend Dependencies
