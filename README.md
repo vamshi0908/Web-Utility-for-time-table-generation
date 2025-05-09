@@ -1,6 +1,5 @@
 # Web Utility for Time-Table Generation
 
-
 ## Overview
 
 This project is an **Automated Time-Table Generator** built using the **MERN Stack**. It leverages advanced algorithms and modern web technologies to create optimized and constraint-based timetables automatically.
@@ -73,16 +72,16 @@ Make sure to replace `"YOUR_LOCAL_OR_REMOTE_MONGO_URI"` and `"YOUR_SECRET"` with
 
 ---
 
-## 📬 Contributions
-MAHINDRA UNIVERSITY
-ANISH KUMAR MAGANTI-SE22UARI018
-SRIMAN SATWIK REDDY CHINNAM-SE22UARI166
-VAMSHI KRISHNA THODUPUNURY-SE22UARI198
-VENKATA KAASHITH GOPU-SE22UARI200
+## 📬 Contributors
 
-
+**Mahindra University**  
+- 🎓 Anish Kumar Maganti – *SE22UARI018*  
+- 🎓 Sriman Satwik Reddy Chinnam – *SE22UARI166*  
+- 🎓 Vamshi Krishna Thodupunury – *SE22UARI198*  
+- 🎓 Venkata Kaashith Gopu – *SE22UARI200*
 
 ---
 
-**
- 
+## 📄 License
+
+This project is licensed under the MIT License.
